@@ -9,22 +9,29 @@ enableRobotsTXT = true
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
 [params]
 
 
     # dark mode
     defaultDark = true
-    backgroundDark = "black"
+    background = "#fff"
     backgroundImage = "/img/background.jpg"
-    darkLinkColor = "darkseagreen"
-    darkNav = true
+    darkLinkColor = "seagreen"
+    #darkNav = true
     dark404 = true
 
+    favicon = "/img/avatar.jpg"
 
 
     author = "KD's Food Diary"
     email = "kd@puvvadi.me"
-    twitter = "kdsfood.diary"
+    twitter = "kdsfood_diary"
     facebook = "kdsfood.diary"
     instagram = "kdsfood.diary"
     github = "kdpuvvadi"
@@ -41,3 +48,6 @@ enableRobotsTXT = true
     
 
 
+[params.advanced]
+    customCSS = ["css/custom.css"]
+    customJS = []
