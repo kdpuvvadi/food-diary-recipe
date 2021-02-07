@@ -5,15 +5,17 @@ title = "KD's Food Dairy"
 theme = "dream"
 
 enableRobotsTXT = true
-    copyright = "KD"
 
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
 
 [params]
 
 
     # dark mode
+    defaultDark = true
     backgroundDark = "black"
-    backgroundImageDark = "/me/background-dark.jpg"
+    backgroundImage = "/img/background.jpg"
     darkLinkColor = "darkseagreen"
     darkNav = true
     dark404 = true
@@ -29,7 +31,7 @@ enableRobotsTXT = true
 
     avatar = "/img/avatar.jpg"
     
-    siteStartYear = 2021
+    siteStartYear = 2019
 
     enableSearch = true
     rss = true
