@@ -1,0 +1,37 @@
+baseURL = "/"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+title = "KD's Food Dairy"
+theme = "dream"
+
+enableRobotsTXT = true
+    copyright = "KD"
+
+
+[params]
+
+    author = "KD's Food Diary"
+    email = "kd@puvvadi.me"
+    twitter = "kdsfood.diary"
+    facebook = "kdsfood.diary"
+    instagram = "kdsfood.diary"
+    github = "kdpuvvadi"
+
+    avatar = "/img/avatar.jpg"
+    
+    siteStartYear = 2021
+
+    enableSearch = true
+    rss = true
+
+
+    showSummaryCoverInPost = true
+
+    background = "#fff"
+    backgroundDark = "black"
+    darkLinkColor = "darkseagreen"
+    
+    
+    
+
+
