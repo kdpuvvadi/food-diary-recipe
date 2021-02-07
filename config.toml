@@ -21,8 +21,8 @@ enableRobotsTXT = true
     # dark mode
     defaultDark = true
     background = "#fff"
-    backgroundImage = "/img/background.jpg"
-    darkLinkColor = "seagreen"
+    backgroundImage = "/img/background-dark.jpg"
+    darkLinkColor = "darkseagreen"
     #darkNav = true
     dark404 = true
 
