@@ -7,12 +7,12 @@ avatar: /img/avatar.jpg
 authorlink: https://www.instagram.com/kdsfood.diary/
 cover: /img/dutch-chocolate-cake-recipe.jpg
 categories:
-  - recipe
+  - Recipe
 tags:
   - cake
   - chocolate cake
   - recipe
-draft: true
+draft: false
 ---
 
 Cut out summary from your post content here.
