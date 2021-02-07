@@ -97,6 +97,6 @@ Who doesn't love chocolate cake? Our Recipe is simple, very few ingredients and 
   * add the frosting around the cake. 
   * Finally garnish it with choice of toppings like shredded chocolates, grated dark chocolate, sprinkles etc. 
   
-### Conclusion
+## Conclusion
 
 Baking your own cake is well worth the effort and satisfying. Method is simple and easy to make. ***Au Revoir***
