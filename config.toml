@@ -10,6 +10,16 @@ enableRobotsTXT = true
 
 [params]
 
+
+    # dark mode
+    backgroundDark = "black"
+    backgroundImageDark = "/me/background-dark.jpg"
+    darkLinkColor = "darkseagreen"
+    darkNav = true
+    dark404 = true
+
+
+
     author = "KD's Food Diary"
     email = "kd@puvvadi.me"
     twitter = "kdsfood.diary"
@@ -26,12 +36,6 @@ enableRobotsTXT = true
 
 
     showSummaryCoverInPost = true
-
-    background = "#fff"
-    backgroundDark = "black"
-    darkLinkColor = "darkseagreen"
-    
-    
     
 
 

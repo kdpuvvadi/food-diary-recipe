@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-Cut out summary from your post content here.
+Who doesn't love chocolate cake? Our Recipe is simple, very few ingredients and anyone can bake it.Recipe as follows.
 
 <!--more-->
 
