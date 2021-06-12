@@ -15,7 +15,6 @@ tags:
   - South Indian
   - Herbs
   - Spices
-draft: true
 ---
 
 **This is my take on traditional Pudina chicken you may have tried before. I tried fusing Kannada & Telugu cooking methods.**
