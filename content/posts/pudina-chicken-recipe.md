@@ -3,7 +3,7 @@ title: Pudina Chicken Recipe
 date: 2021-04-07T14:22:15+05:30
 lastmod: 2021-04-07T14:22:15+05:30
 author: KD's Food Dairy
-avatar: /img/author.jpg
+avatar: /img/avatar.jpg
 authorlink: https://www.instagram.com/kdsfood.diary/
 cover: /img/pudina-chicken.jpg
 categories:
