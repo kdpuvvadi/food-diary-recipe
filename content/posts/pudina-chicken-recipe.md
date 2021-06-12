@@ -77,6 +77,7 @@ tags:
 * Reduce heat to low & close the lid.
 * Cook them on low for 30 to 4 minutes.
 * Do not mix the chicken frequently. Pieces may disintegrate.
+* Add dry spices
 * check for salt, add if necessary.
 * Add few mint leaves and fried onions for garnish and off goes the flame.
 
