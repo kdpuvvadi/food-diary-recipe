@@ -13,7 +13,6 @@ tags:
   - Dosa
   - Rava Dosa
   - Semolina
-draft: true
 ---
 
 Rava Dosa, South Indian Delicacy is an amazing breakfast and quick to Make. Batter can be mixed instantly. Only resting period it needs is to soften the semolina/Rava
